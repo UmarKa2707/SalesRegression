@@ -1,0 +1,17 @@
+# Python / Virtual Environments
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+env/
+
+# Data / Large Files (adjust if you want to track small CSVs)
+*.csv
+*.parquet
+*.pkl
+*.joblib
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
